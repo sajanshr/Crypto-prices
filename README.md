@@ -21,3 +21,14 @@ A simple React application that displays the current prices and market capitaliz
 
 - Node.js (version 12 or later)
 - npm (Node package manager)
+
+1. Clone the repository: git clone https://github.com/yourusername/crypto-prices.git
+2. Navigate to the project directory: cd crypto-prices
+3. Install the dependencies: npm install
+4. Start the development server: npm start
+5. Open your browser and go to http://localhost:3000.
+
+Usage
+The application will display the top 10 cryptocurrencies by market cap.
+Use the Back and Next buttons to navigate through the pages.
+The prices and market capitalizations are updated in real-time.
